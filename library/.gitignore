@@ -1,0 +1,4 @@
+# ignore cache
+*__pycache__/
+*sync.ffs_db
+*.ipynb_checkpoints/
